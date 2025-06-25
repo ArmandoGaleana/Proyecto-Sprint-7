@@ -6,3 +6,5 @@ La distribución de precios mediante un histograma.
 La relación entre el año del modelo y el precio, diferenciando por tipo de transmisión, a través de un gráfico de dispersión.
 
 Es una herramienta sencilla para entender tendencias y patrones en el mercado de vehículos usados, ideal para compradores, vendedores o analistas de datos automotrices.
+
+Link de la aplicación https://proyecto-sprint-7-wsto.onrender.com
